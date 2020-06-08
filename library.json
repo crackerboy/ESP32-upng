@@ -1,0 +1,7 @@
+"export": {
+    "include":
+    [
+        "upng.h",
+        "upng.cpp"
+    ]
+}
