@@ -1,7 +1,12 @@
 {
     "export": {
-        "include":
-        [
+        "include": [
+            "upng.h",
+            "upng.cpp"
+        ]
+    },
+    "build": {
+        "srcFilter": [
             "upng.h",
             "upng.cpp"
         ]
